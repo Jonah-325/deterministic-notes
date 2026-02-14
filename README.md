@@ -17,9 +17,8 @@ Compute performance continues to scale, but memory latency and variability remai
 
 ## Architectural Position
 
-Deterministic execution does not reduce memory latency.  
-It reduces execution uncertainty.
+Deterministic execution does not reduce memory latency.
+It removes execution uncertainty from the critical path.
 
 That distinction defines the design space explored here.
 
-This repository is not a product announcement. It is an architectural argument.
