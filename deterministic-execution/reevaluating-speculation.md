@@ -4,7 +4,7 @@ Modern CPU and GPU architectures rely heavily on speculative execution to maximi
 
 However, real-time and safety-critical systems expose structural weaknesses in speculation-driven architectures.
 
-## The Limits of Speculation
+## The Costs of Speculation
 
 Speculative execution operates by predicting future execution paths and allocating resources before outcomes are known. When predictions are correct, performance improves. When incorrect, work must be discarded and re-executed.
 
@@ -33,7 +33,7 @@ A deterministic scheduling model seeks to:
 
 The objective is not maximum peak throughput, but bounded and repeatable performance.
 
-## Where This Matters
+## The Bottom Line
 
 Throughput-optimized architectures remain essential for cloud computing, large-scale AI training, and general-purpose workloads.
 
