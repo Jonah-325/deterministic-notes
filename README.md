@@ -8,8 +8,6 @@ The focus is architectural: scheduling vs. speculation, effective vs. peak bandw
 
 Compute performance continues to scale, but memory latency and variability remain dominant constraints. Modern CPUs and GPUs rely heavily on speculative mechanisms to hide uncertainty. This repository examines an alternative: treating latency as a scheduled event rather than a hazard.
 
-## Structure
-
 ## Essays
 
 ### Deterministic Execution
