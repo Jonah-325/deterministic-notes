@@ -1,8 +1,7 @@
 # Deterministic Execution — Notes and Essays
 
-This repository collects technical essays and working notes on deterministic execution, vector architecture, and memory efficiency in modern computing systems.
-
-The focus is architectural rather than promotional. These essays examine scheduling vs. speculation, effective vs. peak bandwidth, and alternative approaches to managing memory latency.
+This repository explores deterministic execution as a structural alternative to speculation-driven processor architectures.
+The focus is architectural: scheduling vs. speculation, effective vs. peak bandwidth, and execution determinism in latency-sensitive systems.
 
 ---
 
