@@ -1,4 +1,4 @@
-# Deterministic Execution — Notes and Essays
+# Deterministic Execution
 
 This repository explores deterministic execution as a structural alternative to speculation-driven processor architectures.
 The focus is architectural: scheduling vs. speculation, effective vs. peak bandwidth, and execution determinism in latency-sensitive systems.
@@ -15,8 +15,11 @@ Compute performance continues to scale, but memory latency and variability remai
 ### Deterministic Execution
 - [Reevaluating Speculative Execution in Real-Time Systems](deterministic-execution/reevaluating-speculation.md)
 
-### Memory and Bandwidth
-- (future essays)
+## Architectural Position
 
+Deterministic execution does not reduce memory latency.  
+It reduces execution uncertainty.
 
-This repository is maintained separately from the RISC-V Vector Primer to preserve clarity of scope.
+That distinction defines the design space explored here.
+
+This repository is not a product announcement. It is an architectural argument.
