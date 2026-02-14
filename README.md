@@ -2,7 +2,7 @@
 
 This repository collects technical essays and working notes on deterministic execution, vector architecture, and memory efficiency in modern computing systems.
 
-The focus is architectural rather than promotional. These pieces explore scheduling vs. speculation, effective vs. peak bandwidth, and alternative approaches to managing memory latency.
+The focus is architectural rather than promotional. These essays examine scheduling vs. speculation, effective vs. peak bandwidth, and alternative approaches to managing memory latency.
 
 ---
 
