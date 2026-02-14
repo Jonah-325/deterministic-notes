@@ -8,7 +8,7 @@ The focus is architectural rather than promotional. These essays examine schedul
 
 ## Structure
 
-### Deterministic Execution
+- [Reevaluating Speculative Execution in Real-Time Systems](deterministic-execution/reevaluating-speculation.md)
 - Memory Wall and Determinism
 - Moving Beyond Speculation
 - Predictable Performance
