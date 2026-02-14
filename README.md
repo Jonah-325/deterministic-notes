@@ -19,4 +19,4 @@ The focus is architectural rather than promotional. These essays examine schedul
 
 ---
 
-This repository is maintained separately from the RISC-V Vector Primer to preserve clarity of purpose.
+This repository is maintained separately from the RISC-V Vector Primer to preserve clarity of scope.
