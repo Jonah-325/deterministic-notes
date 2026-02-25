@@ -10,13 +10,9 @@ Compute performance continues to scale, but memory latency and variability remai
 
 ## Essays
 
+## Essays
+
 ### Deterministic Execution
+
 - [Reevaluating Speculative Execution in Real-Time Systems](deterministic-execution/reevaluating-speculation.md)
-
-## Architectural Position
-
-Deterministic execution does not reduce memory latency.
-It removes execution uncertainty from the critical path.
-
-That distinction defines the design space explored here.
-
+- [Deterministic Execution vs Speculation](deterministic-execution-vs-speculation.md)
