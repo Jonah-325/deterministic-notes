@@ -10,8 +10,6 @@ Compute performance continues to scale, but memory latency and variability remai
 
 ## Essays
 
-## Essays
-
 ### Deterministic Execution
 
 - [Reevaluating Speculative Execution in Real-Time Systems](deterministic-execution/reevaluating-speculation.md)
